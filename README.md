@@ -1,7 +1,7 @@
 <div align="center">
   
 ## About me:
-  Hi, I'm 3rd year Computer Science student at [Wroclaw University of Science and Technology](http://pwr.edu.pl/en/).
+  Hi, I'm 3rd year Computer Science student at [Wroclaw University of Science and Technology](http://pwr.edu.pl/en/).\n
   I’m interested in technology, video games, editing graphic and videos.
 
 -------------------
